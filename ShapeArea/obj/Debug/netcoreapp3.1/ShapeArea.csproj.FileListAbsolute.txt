@@ -1,0 +1,13 @@
+C:\dev3\ShapeArea\ShapeArea\bin\Debug\netcoreapp3.1\ShapeArea.exe
+C:\dev3\ShapeArea\ShapeArea\bin\Debug\netcoreapp3.1\ShapeArea.deps.json
+C:\dev3\ShapeArea\ShapeArea\bin\Debug\netcoreapp3.1\ShapeArea.runtimeconfig.json
+C:\dev3\ShapeArea\ShapeArea\bin\Debug\netcoreapp3.1\ShapeArea.runtimeconfig.dev.json
+C:\dev3\ShapeArea\ShapeArea\bin\Debug\netcoreapp3.1\ShapeArea.dll
+C:\dev3\ShapeArea\ShapeArea\bin\Debug\netcoreapp3.1\ShapeArea.pdb
+C:\dev3\ShapeArea\ShapeArea\obj\Debug\netcoreapp3.1\ShapeArea.csprojAssemblyReference.cache
+C:\dev3\ShapeArea\ShapeArea\obj\Debug\netcoreapp3.1\ShapeArea.AssemblyInfoInputs.cache
+C:\dev3\ShapeArea\ShapeArea\obj\Debug\netcoreapp3.1\ShapeArea.AssemblyInfo.cs
+C:\dev3\ShapeArea\ShapeArea\obj\Debug\netcoreapp3.1\ShapeArea.csproj.CoreCompileInputs.cache
+C:\dev3\ShapeArea\ShapeArea\obj\Debug\netcoreapp3.1\ShapeArea.dll
+C:\dev3\ShapeArea\ShapeArea\obj\Debug\netcoreapp3.1\ShapeArea.pdb
+C:\dev3\ShapeArea\ShapeArea\obj\Debug\netcoreapp3.1\ShapeArea.genruntimeconfig.cache
